@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">vpnmodule</string>
+    <string name="google_api_client_id">eQeHshCZA0msBVOcnlBQhIF0NA</string>
+    <string name="google_api_client_id1">abceQeHshCZA0msBVOcnlBQhJdJ7e2MqvswM8T+0ax8gG8DsrWZ9nLsC8SZ3kIwdtUU</string>
+    <string name="firebase_api_client_id">5NipbKTsMoZIYQzPuESZ/bcg1XGA==</string>
+    <string name="firebase_api_client_id1">+0ax8gG8DsrWZ9nLsC8SZ3kIwdtUU</string>
+    <string name="secret_api_client_id">°°°·.°·..·°¯°·._.· ᵉ𝐥ι𝓢ᶤＯη ｉήｆỖ𝓽ᵉ¢卄 ·._.·°¯°·.·° .·°°°</string>
+    <string name="vpn_permission">To Continue Access on the Application, We Required VPN Permission to Allow.\n\nPlease Allow the Permission From the Setting Page.</string>
+    <string name="txt_check_permissio">Allow Permission</string>
+    <string name="txt_close">Close</string>
+
+</resources>
