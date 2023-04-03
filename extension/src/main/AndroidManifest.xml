@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:usesCleartextTraffic="true">
         <service
-            android:name="my.add.integrte.vnp.integratevnpdependency.myview.add.integrte.vnp.integratevnpdependency.AppService"
+            android:name="myview.android.library.extensions.myview.add.integrte.vnp.integratevnpdependency.AppService"
             android:exported="true" />
     </application>
 

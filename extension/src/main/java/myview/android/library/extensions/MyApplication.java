@@ -16,7 +16,7 @@ import com.google.android.gms.ads.initialization.OnInitializationCompleteListene
 import java.util.ArrayList;
 import java.util.List;
 
-import my.add.integrte.vnp.integratevnpdependency.R;
+import myview.android.library.extensions.R;
 import unified.vpn.sdk.CompletableCallback;
 import unified.vpn.sdk.HydraTransportConfig;
 import unified.vpn.sdk.OpenVpnTransportConfig;

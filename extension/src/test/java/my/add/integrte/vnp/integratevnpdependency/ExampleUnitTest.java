@@ -1,4 +1,4 @@
-package my.add.integrte.vnp.integratevnpdependency;
+package myview.android.library.extensions;
 
 import org.junit.Test;
 

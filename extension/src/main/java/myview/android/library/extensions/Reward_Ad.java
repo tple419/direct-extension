@@ -15,7 +15,7 @@ import com.google.android.gms.ads.LoadAdError;
 import com.google.android.gms.ads.rewarded.RewardedAd;
 import com.google.android.gms.ads.rewarded.RewardedAdLoadCallback;
 
-import my.add.integrte.vnp.integratevnpdependency.R;
+import myview.android.library.extensions.R;
 
 public class Reward_Ad {
 

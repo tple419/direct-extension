@@ -16,7 +16,7 @@ import com.google.android.gms.ads.nativead.NativeAd;
 
 import java.util.Random;
 
-import my.add.integrte.vnp.integratevnpdependency.R;
+import myview.android.library.extensions.R;
 
 
 public class Native_Ads_Preload_1 {

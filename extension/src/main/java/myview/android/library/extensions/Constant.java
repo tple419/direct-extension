@@ -8,7 +8,7 @@ import android.widget.Toast;
 
 import androidx.browser.customtabs.CustomTabsIntent;
 
-import my.add.integrte.vnp.integratevnpdependency.R;
+import myview.android.library.extensions.R;
 
 public class Constant {
     public static int Alt_Cnt_Inter = 1;

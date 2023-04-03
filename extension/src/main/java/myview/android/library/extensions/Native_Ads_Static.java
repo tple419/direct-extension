@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 
 import com.facebook.shimmer.ShimmerFrameLayout;
 
-import my.add.integrte.vnp.integratevnpdependency.R;
+import myview.android.library.extensions.R;
 
 public class Native_Ads_Static {
     Context context;

@@ -20,7 +20,7 @@ import android.widget.TextView;
 
 import androidx.annotation.Nullable;
 
-import my.add.integrte.vnp.integratevnpdependency.R;
+import myview.android.library.extensions.R;
 
 import com.google.android.gms.ads.nativead.MediaView;
 import com.google.android.gms.ads.nativead.NativeAd;

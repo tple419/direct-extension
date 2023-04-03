@@ -40,7 +40,7 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 
-import my.add.integrte.vnp.integratevnpdependency.R;
+import myview.android.library.extensions.R;
 import unified.vpn.sdk.AuthMethod;
 import unified.vpn.sdk.Callback;
 import unified.vpn.sdk.ClientInfo;

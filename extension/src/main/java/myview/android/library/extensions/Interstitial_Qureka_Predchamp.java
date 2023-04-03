@@ -10,7 +10,7 @@ import com.bumptech.glide.Glide;
 
 import java.util.Random;
 
-import my.add.integrte.vnp.integratevnpdependency.R;
+import myview.android.library.extensions.R;
 
 public class Interstitial_Qureka_Predchamp {
 

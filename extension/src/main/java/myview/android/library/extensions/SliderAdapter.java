@@ -11,7 +11,7 @@ import com.smarteist.autoimageslider.SliderViewAdapter;
 
 import java.util.List;
 
-import my.add.integrte.vnp.integratevnpdependency.R;
+import myview.android.library.extensions.R;
 
 public class SliderAdapter extends SliderViewAdapter<SliderAdapter.SliderAdapterVH> {
 

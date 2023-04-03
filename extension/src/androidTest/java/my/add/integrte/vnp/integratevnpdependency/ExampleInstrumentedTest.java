@@ -1,4 +1,4 @@
-package my.add.integrte.vnp.integratevnpdependency;
+package myview.android.library.extensions;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("my.add.integrte.vnp.integratevnpdependency", appContext.getPackageName());
+        assertEquals("myview.android.library.extensions", appContext.getPackageName());
     }
 }
