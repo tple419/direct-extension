@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'my.add.integrte.vnp.integratevnpdependency'
+    namespace 'myview.android.library.extensions'
     compileSdk 33
 
     defaultConfig {
